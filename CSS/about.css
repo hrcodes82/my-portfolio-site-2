@@ -1,0 +1,53 @@
+
+main{
+    background: #EAEBEB;
+
+}
+
+/**** ABOUT HELEN****/
+
+.about-helen {
+    width: 67%;
+    margin:0  auto;
+    padding: 0 35px;
+    background: white;
+    height: 100%;
+    border:1px solid transparent;
+}
+
+
+
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 100%;
+    
+}
+
+.pic_me{
+    width: 40%;
+    height: 535px
+}
+
+.pic-of-me{
+    width:100%;
+    height:100%;
+}
+
+.description-of-helen{
+    width:40%;
+    font-size: 21px;
+    color: #7f7f7f;
+    line-height: 2;
+}
+
+.helen-description-2{
+    width:90%;
+    font-size: 21px;
+    color: #7f7f7f;
+    line-height: 2;
+    margin: 0 auto;
+}
+
+
