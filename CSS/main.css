@@ -22,8 +22,10 @@ body  {
 }
 
 /****** HEADER ******/
-
-header {
+.header{
+    height: 200px;
+}
+.header.home {
     height: 800px;
     background: url("../img/full-background.png") ;
     background-size: cover;
